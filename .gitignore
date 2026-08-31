@@ -1,0 +1,16 @@
+
+*.pdf
+
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+*.log
+phase_1_report
+*.report
+
+ik2221-assign-phase1-team3/TODO
+ik2221-assign-phase1-team3/debug_note
+ik2221-assign-phase1-team3/debug_note.txt
